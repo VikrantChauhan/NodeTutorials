@@ -1,0 +1,19 @@
+{
+    "name": "express_server",
+    "version": "1.0.0",
+    "description": "server",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.16.4",
+        "nodemon": "^2.0.15"
+    },
+    "author": {
+        "name": "Vikrant Chauhan",
+        "email": "chauhan.vikrant@hotmail.com"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "nodemon app.js",
+        "raw": "nodemon server.js"
+    }
+}
